@@ -20,7 +20,7 @@ export default function App() {
         translucent
       />
       
-      { fontsLoader ? <Players /> : <Loading /> }
+      { fontsLoader ? <Players/> : <Loading /> }
     </ThemeProvider>
   );
 }
