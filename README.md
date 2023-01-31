@@ -5,6 +5,7 @@
 <h2> Tecnologias / Bibliotecas: </h2> 
 
 + React-Native
++ Typescript
 + React-Navigation
 + Expo
 + Async-storage
